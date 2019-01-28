@@ -1,0 +1,12 @@
+MAS testenv {
+
+	infrastructure: Centralised
+
+	environment: TestEnv
+
+	agents:
+		agent1 liz;
+
+	aslSourcePath:
+		"src/asl";
+}

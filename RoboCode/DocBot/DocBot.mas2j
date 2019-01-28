@@ -1,0 +1,23 @@
+/* Jason Project */
+
+
+
+MAS docBot {
+
+
+
+    infrastructure: Centralised
+	
+	//environment: botEnv 
+
+    agents:
+
+        scout;
+
+        doctor;
+		
+	
+
+}
+
+
